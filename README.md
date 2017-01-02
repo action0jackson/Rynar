@@ -1,2 +1,2 @@
 # Rynar
-Terraria mod for Tloader
+Terraria mod for tModLoader
